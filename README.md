@@ -11,7 +11,6 @@
 <br/>👨‍🚀 currently coursing the discover program <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
 <br/>🌱 studying **Front-end and Back-end technologies** 💻
 <br/>🤝 keen to collaborate in open source projects
-<!-- <br/>📔 usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a> -->
 <br/>🎵 Great Brazilian hits from the 80s to 90s
 <!-- <br> 💬 find more about me in [my student portfolio](https://bpires.github.io/) and feel free to share any thoughts -->
 <br>
