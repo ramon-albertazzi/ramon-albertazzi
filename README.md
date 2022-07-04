@@ -1,6 +1,6 @@
 ### Hi there, I'm Ramon. Nice too meet you 👋
 
-</br></br></br>
+</br>
 
 ## about me
 <br/>💻 IT Manager at VAT Tecnologia
